@@ -57,7 +57,7 @@ cd timeseries-analysis
 ```
 
 ### Installation
-*(Optional: If you create a requirements.txt file later, users can install dependencies using the command below)*
+
 ```bash
 pip install -r requirements.txt
 ```
